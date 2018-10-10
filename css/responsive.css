@@ -1,0 +1,23 @@
+@charset "utf-8";
+/* CSS Document */
+
+@media screen and (max-width: 720px) {
+  #map-container, #restaurant-container, #reviews-container {
+    clear: both;
+    width: -webkit-fill-available;
+  }
+  #map-container {
+    position: absolute !important;
+    height: 400px !important;
+  }
+  #breadcrumb {
+    width: 100%;
+  }
+  #restaurant-container {
+    padding-top: 500px;
+    padding-right: 0px;
+  }
+  #reviews-container {
+    padding-right: 0px;
+  }
+}
