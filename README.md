@@ -2,12 +2,12 @@
 
 This is a restaurant reviews app designed for Udacity's Front End Nanodegree course, uses Google Map to search for restaurants. This app is accessible for screen readers to read, and is responsive for different sized displays. This app is also build to provide a seamless offline experience for users (using Service Worker). 
 
-![alt text](https://github.com/riyadashoriya/RestaurantReviewsApp-Stage1/blob/master/desktopView.png "Restaurant Reviews App - Stage 1 Desktop View")
+## Desktop View
+<img src="https://github.com/riyadashoriya/RestaurantReviewsApp-Stage1/blob/master/desktopView.png" alt="Restaurant Reviews App - Stage 1 Desktop View">
 
 
-
-![alt text](https://github.com/riyadashoriya/RestaurantReviewsApp-Stage1/blob/master/mobileView.png "Restaurant Reviews App - Stage 1 Mobile View")
-
+## Mobile View
+<img src="https://github.com/riyadashoriya/RestaurantReviewsApp-Stage1/blob/master/mobileView.png" width="375px" height="668" alt="Restaurant Reviews App - Stage 1 Mobile View">
 
 
 ## Working
